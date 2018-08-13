@@ -9,7 +9,7 @@
 
 ## Notes
 
-* Describe Single-Page Applications (SPA)
+* *Describe Single-Page Applications (SPA)*
   - Dynamically created
     * Templating
   - Behaves more like a desktop appilication
@@ -21,15 +21,15 @@
   - NOT THE SAME AS CSS FRAMEWORKS
     * Or 'component libraries'
   
-* Identify SPAs in the wild
- - Facebook
- - Twitter
- - Instagram
- - NOT myspace
- - NOT geocities
- - Gmail was a seminal SPA
+* *Identify SPAs in the wild*
+  - Facebook
+  - Twitter
+  - Instagram
+  - NOT myspace
+  - NOT geocities
+  - Gmail was a seminal SPA
 
-* What are components?
+* *What are components?*
   - JavaScript functions take props as inputs and return a template
   - Little chunks of the page (views) that can operate independently
     * They can be linked together in some ways (state, props)
@@ -43,7 +43,7 @@
     * The framework takes care of the rest (updating DOM)
       - Conditional re-rendering
   
-* Explain some benefits of componentization
+* *Explain some benefits of componentization*
   - Conditional rendering & re-rendering
   - REUSABILITY!
     - Component libraries are a thing
@@ -55,12 +55,13 @@
     - Helpul error messages in browser
     - Chrome/Firefox extensions
 
-* Extra
-  - Convention over configuration (Ember)
-  - React/Vue/Angular give you more flexibility in file structure, etc.
+* *Extra*
+  - Convention over Configuration (Ember)
+  - React/Vue/Angular give you more flexibility in file structure, architecture etc.
 
 ## Resources
 
+* [Code Repo](https://github.com/matt-winzer/front-end-framework-concepts)
 * [Single-Page Application - Wikipedia](https://en.wikipedia.org/wiki/Single-page_application)
 * [Components & Props - React Docs](https://reactjs.org/docs/components-and-props.html)
 * [Learn React - gSchool Slides](https://github.com/gSchool/LectureDocs/blob/master/React/LearnToCodeReact.pdf)
